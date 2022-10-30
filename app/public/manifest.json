@@ -1,0 +1,8 @@
+{
+  "short_name": "Цаг захиалгын систем",
+  "name": "Цаг захиалгын систем",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
